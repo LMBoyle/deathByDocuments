@@ -1,10 +1,11 @@
-[![Build Status](https://travis-ci.com/LMBoyle/project2.svg?branch=master)](https://travis-ci.com/LMBoyle/project2)
-
 # Death By Documents
-
 A website to store all your important documents!
 
-Made by [Luke](https://github.com/LMBoyle), [LaMana](https://github.com/lamanaml), and [Michael](https://github.com/nightslife)
+## Instructions
+Register as new user then start to upload your documents to save them
+
+## What It Teaches
+Making a full-stack website and working as a group
 
 ## Languages/Technologies 
 * HTML
@@ -28,9 +29,14 @@ Made by [Luke](https://github.com/LMBoyle), [LaMana](https://github.com/lamanaml
 
 
 ## Links
+Made by [Luke](https://github.com/LMBoyle), [LaMana](https://github.com/lamanaml), and [Michael](https://github.com/nightslife)
 
-[Deployed link](https://project2-llmj.herokuapp.com/)
+[Original Deployed link](https://project2-llmj.herokuapp.com/)
 
-[Github Repo](https://github.com/LMBoyle/project2)
+[Original Repo](https://github.com/LMBoyle/project2)
+
+[Deployed link](d)
+
+[Portfolio](https://lmboyle.github.io/)
 
 [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vS5a7SNDTG42BTLpl3OPuyDWFO3RRZNlAqLUvID-WTwufSTsYLBGRKVBHEqvHUT0kiGx6Me5Lem9W7Q/pub?start=false&loop=false&delayms=3000)
